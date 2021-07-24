@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JCurran0499 (Jack Curran), and I am a senior computer and data science undergrad at the University of Maryland
+- 👋 Hi, I’m Jack Curran, and I am a senior computer and data science undergrad at the University of Maryland
 - 🏠 I am from northern New Jersey!
 - 👀 I’m interested in software development/engineering and data science, with a particular interest in machine learning!
 - 🏢 I am currently a software engineer at Capital One, where I work on the company's in-development money movement scheduler platform!
