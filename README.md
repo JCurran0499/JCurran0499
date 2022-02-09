@@ -1,4 +1,4 @@
-👋 Hello! My name is Jack Curran, and I am a senior computer science and business anayltics at the University of Maryland, with a concentration in data science. I am inspired by the opportunities software and data offer to innovate and solve complex problems. Here's a little info about me:
+👋 Hello! My name is Jack Curran, and I am a senior computer science and business anayltics student at the University of Maryland, with a concentration in data science. This summer, I will be joining the software engineering team at Capital One! I am inspired by the opportunities software and data offer to innovate and solve complex problems. Here's a little info about me:
 
 - 🏠 I am from northern New Jersey
 - 👀 I’m interested in software development/engineering and data science, with a particular interest in machine learning
