@@ -6,4 +6,4 @@
 - 🖥️: My technical skills include Python, Java, SQL, MATLAB, and Machine Learning
 - 🎵: My interests and hobbies include music, history, politics, and travel
 
-📫 You can reach me through my [email](jackcurran49@gmail.com) and my [LinkedIn](https://www.linkedin.com/in/johncurran49/)
+📫 You can reach me through my [email](jackcurran49@gmail.com) and my [LinkedIn](https://www.linkedin.com/in/jackcurran49/)
